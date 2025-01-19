@@ -24,6 +24,11 @@ export const skills = [
   {
     id: "5",
     title: "gradle",
-    img: "/gradle logo.jpg",
+    img: "/gradle logo.png",
+  },
+  {
+    id: "6",
+    title: "sql",
+    img: "/sql logo.png",
   },
 ];

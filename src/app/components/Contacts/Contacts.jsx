@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
+
 const Contacts = () => {
   return (
     <>
@@ -31,16 +32,16 @@ const Contacts = () => {
               </div>
               <div className="flex justify-center items-center gap-4">
                 <Image
-                  src="/github.png"
+                  src="/linkedIn logo.png"
                   width={32}
                   height={32}
                   alt="image not found"
                 />
                 <Link
                   className="text-white text-2xl text-center"
-                  href="https://github.com/LiveWithCodeAnkit"
+                  href="https://www.linkedin.com/in/gen-li1024/"
                 >
-                  nerdyGeek
+                  Li Gen
                 </Link>
               </div>
             </div>
